@@ -73,7 +73,7 @@ profile - [JoelJaison](https://dev.to/joeljaison394)
 
 **Tech lead**
 
-![Frame 7.png](Joel%20Jaison%207513873617cd430c8e85730ca08a487f/Frame_7.png)
+![Frame 7.png](./Frame_7.png)
 
 **GDSC -  Google Developer Student Club**
 
@@ -86,7 +86,7 @@ August 2023 *- currently*
 
 **Intern**
 
-![Untitled](Joel%20Jaison%207513873617cd430c8e85730ca08a487f/Untitled.png)
+![Untitled](./Untitled.png)
 
 **Inclusys Org Foundation**
 
